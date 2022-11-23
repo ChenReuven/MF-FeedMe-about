@@ -10,7 +10,7 @@
     "react-app-rewire-micro-frontends": "0.0.1",
     "react-app-rewired": "^2.1.5",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "config-overrides-path": "node_modules/react-app-rewire-micro-frontends",
   "scripts": {
